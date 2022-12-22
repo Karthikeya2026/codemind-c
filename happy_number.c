@@ -1,4 +1,4 @@
-#include <stdio.h>  
+#include <stdio.h>
 int HappyNumber(int num){    
     int rem = 0, sum = 0;   
     while(num > 0){    
@@ -26,4 +26,4 @@ int main()
         printf("False");     
      
     return 0;    
-}    
+}
