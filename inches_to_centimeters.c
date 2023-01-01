@@ -11,6 +11,4 @@ int main()
  
  
  printf("%.2f",cm);
- // printf("%.2f", cm);
- return 0;
 }
