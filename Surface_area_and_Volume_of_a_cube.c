@@ -2,7 +2,7 @@
 int main()
 {
  
- int  a,v,x;
+ int a,v,x;
  scanf("%d",&x);
  v=x*x*x;
  a=6*x*x;
